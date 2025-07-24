@@ -1,4 +1,4 @@
-# Kaggle Competition - [Natural Language Processing with Disaster Tweets]
+# Kaggle Competition - Natural Language Processing with Disaster Tweets
 
 This repository contains my work for the [Competition Name](https://www.kaggle.com/competitions/nlp-getting-started/overview) on Kaggle.
 
